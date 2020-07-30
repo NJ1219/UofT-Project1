@@ -257,3 +257,18 @@ Figure 14. BNS vs Price simulated with confidence interval
 
 We have tried to establish the positive impact of the actions undertaken by Bank of Canada to help its citizens and the economy through the COVID-19 crisis. The results have been summarised on the macro economic level as well as on the individual stock levels. The economy has been able to bounce back as a result of this quantitative easing.
 
+
+## 6. Challenges
+
+### 6.1  Challange Description
+
+It is a trade-off between time and effort as to whether to spend time in finding the best formatted data or to find a data and then spend time to cleaning and formatting it. As a team, we spend more time in finding the right sets of data which made our efforts in data cleaning,  relatively easier.
+
+| Challenge | Description |
+| -------------- | ----------- |
+| __Find the relative data for research__ | The first challenge is to find the relative data which is to be used in research. It contains hundreds of data sets pertaining to different programs ranging from the previous century. Usually the data sets and the name of the programs are different. Also, the data contains a lot of empty fields as different programs started and ended in different years spanning decades of data. |
+| __Data Conversion__ | The next challenge is to convert date into specific format to be able to extract data according to year or month or day. The data is not formatted to user friendliness. |
+
+### 6.2 Future Improvemnent
+
+As a team, we spend considerable time in searching for new APIs or Python libraries which will reduce our workload and help towards our project in an efficacious manner. Through this project we learned new Python libraries like pypfopt and finquant and new APIs like Yahoo Finance and PyValet. The effort behind finding these tools is much more than using these tools to get desired results.
