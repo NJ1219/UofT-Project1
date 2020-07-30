@@ -1,7 +1,7 @@
 # Group 5 Project UofT FinTech Bootcamp
 
-__Title__: Analysis of the Impact of Bank of Canada’s actions on Canadian Banking sector through COVID-19
-__Group members__: Amar Munipalle, Alexandra Hu, Nitesh Jain, Shuran Xu
+__Title__: Analysis of the Impact of Bank of Canada’s actions on Canadian Banking sector through COVID-19 <br />
+__Group members__: Amar Munipalle, Alexandra Hu, Nitesh Jain, Shuran Xu <br />
 
 
 ## 1. Background of Covid 19 and the Economy
