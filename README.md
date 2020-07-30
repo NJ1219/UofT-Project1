@@ -27,7 +27,7 @@ The public health actions needed to contain the spread of the virus, such as sch
 However, it’s important to underscore that while the impact is large, it will be temporary. Authorities around the world have taken bold and necessary measures to contain the spread of the virus and to support people and businesses through a very challenging time.
 
 
-## 2. Covid 19 Impacts on Canada Banks
+## 2. Covid-19 Impacts on Canadian Banks
 
 We have analysed the impact on the Big 6 Canadian Banks:
 
@@ -49,7 +49,7 @@ And 3 Smaller Canadian Banks:
 
 As all of those banks are public companies. We have utilized the build_portfolio() function imported from finquant api to find all their data of the timeframe from 2000.1.1 to 2020.6.30. The data are straightforward and no need to be cleaned. The returned data is in dataframe and can be directly used in plotting. 
 
-### 2.2 Impact from Covid 19
+### 2.2 Impact from Covid-19
 
 The Canadian Banks gave large mortgage and loan books significantly impacted.
 Figure plots an equally weighted index of large and small bank stocks which declines as volatility increases.
@@ -198,7 +198,7 @@ The function of the 8 programs offered by Bank of Canada is to ease the liquidit
 __*Note*__:Liquidity refers to the ease with which an asset, or security, can be converted into ready cash without affecting its market price. Cash is the most liquid of assets while tangible items are less liquid and the two main types of liquidity include market liquidity and accounting liquidity.
 
 
-## 4. Overall Stock Market
+## 4. Overall Stock Market Analysis
 
 ### 4.1 Data Sources and Preparation
 
@@ -216,7 +216,7 @@ We have run the price trajectory simulation for next year for 1000 times conside
 Figure 10. Price trajectory simulation
 </p>
 
-### 4.3 Confidence interval
+### 4.3 Confidence Interval
 
 We have compared actual prices on July 20 with a Monte Carlo simulation generated at the peak of the crisis. It validates that actual prices are beyond the 95% tile establishing statistical significance of interventions.
 
