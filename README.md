@@ -3,8 +3,20 @@
 __Title__: Analysis of the Impact of Bank of Canada’s actions on Canadian Banking sector through COVID-19 <br />
 __Group members__: Amar Munipalle, Alexandra Hu, Nitesh Jain, Shuran Xu <br />
 
+## 1. Introduction of the Project
 
-## 1. Background of Covid 19 and the Economy
+This project is designed to analyse the econmic impact of COVID-19 in Canada as well as the investment portfolio performance benchmarking & analysis in banking industry.  
+
+### 1.1 Technical Tools Used
+
+| Tool | Details |
+| ---- | ------- |
+| Language | Python 3.0 implemented through Jupyter Notebook |
+| Libraries |  Data preparation and Visualization: Pandas, Hvplot, [Pypfopt](https://pyportfolioopt.readthedocs.io/en/latest/) and Plotly |
+| APIs | [FinQuant](https://finquant.readthedocs.io/en/latest/), Alpaca trade API, Quandl, [Valet API (by Bank of Canada)](https://www.bankofcanada.ca/valet/docs) |
+
+
+### 1.2 Background of Covid 19 and the Economy
 
 ![COV19](images/covid19.png)
 
@@ -240,4 +252,8 @@ Figure 13. BMO vs Price simulated with confidence interval
 Figure 14. BNS vs Price simulated with confidence interval
 </p>
 
+
+## 5. Conclusion
+
+We have tried to establish the positive impact of the actions undertaken by Bank of Canada to help its citizens and the economy through the COVID-19 crisis. The results have been summarised on the macro economic level as well as on the individual stock levels. The economy has been able to bounce back as a result of this quantitative easing.
 
