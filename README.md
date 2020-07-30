@@ -6,7 +6,7 @@ __Group members__: Amar Munipalle, Alexandra Hu, Nitesh Jain, Shuran Xu
 
 ## 1. Background of Covid 19 and the Economy
 
-![COV19](Images/covid19.png)
+![COV19](images/covid19.png)
 
 The COVID-19 pandemic represents a serious health threat to people around the world and a significant disruption to daily life. It is having a major impact on the global and Canadian economies. Every sector of the Canadian economy is affected. Some sectors, such as the energy, travel and hospitality, and service industries, are being particularly hard hit.
 
